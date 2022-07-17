@@ -1,0 +1,7 @@
+.idea/
+store.pyc
+scoring.pyc
+*.pyc
+venv
+__pychache__
+tests_origin.py
